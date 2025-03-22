@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Adam Zahir</h1>
-<h3 align="center">I'm a Telematics Engineer, currently pursuing a PhD at Universidad Carlos III de Madrid (UC3M), Spain</h3>
+<h3 align="center">I'm a Telematics Engineer, currently pursuing a Ph.D at Universidad Carlos III de Madrid (UC3M), Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamzr2000&label=Profile%20views&color=ff4c29&style=flat" alt="adamzr2000" /> </p>
 
