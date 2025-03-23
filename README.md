@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Solidity**
 
+- 👨‍💻 All of my projects are available at [https://adamzr2000.github.io/#/](https://adamzr2000.github.io/#/)
+
 - 💬 Ask me about **Networks (protocols, routing, wireless...)**
 
 - 📫 How to reach me **adamzr2000@gmail.com**
