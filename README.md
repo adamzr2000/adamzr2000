@@ -33,5 +33,3 @@
   <a href="https://www.hyperledger.org/use/fabric" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="Hyperledger Fabric" width="40" height="40"/> </a>
   <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/> </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamzr2000&show_icons=true&locale=en" alt="adamzr2000" /></p>
