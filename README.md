@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [https://adamzr2000.github.io/#/](https://adamzr2000.github.io)
+- 👨‍💻 All of my projects are available at [https://adamzr2000.github.io](https://adamzr2000.github.io)
 
 - 💬 Ask me about **Networks (protocols, routing, wireless...)**
 
@@ -34,4 +34,4 @@
   <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamzr2000&show_icons=true&locale=en&layout=compact" alt="adamzr2000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamzr2000&show_icons=true&locale=en" alt="adamzr2000" /></p>
